@@ -29,3 +29,55 @@
   width: 24px;
   height: 24px;
 }
+
+.guide--card {
+  display: flex;
+  flex-direction: row;
+  flex: 0 0 auto;
+  align-items: center;
+  max-width: 600px;
+  margin: 36px auto;
+}
+
+.card--location{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 4px;
+}
+
+.card--location img{
+  width: 7px;
+}
+
+.card--location{
+  font-size: 12px;
+}
+
+.card--title {
+  font-size: 25px;
+}
+
+.card--cover_img{
+  width: 125px;
+  height: 168px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.card--body{
+  margin-left: 19px;
+}
+
+.card--date_interval{
+  display: block;
+  font-weight: 700;
+  font-size: 12px;
+  margin-top: 18px;
+}
+
+.card--description{
+  margin-top: 8px;
+  font-weight: 400;
+  font-size: 12px;
+}
