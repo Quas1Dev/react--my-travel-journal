@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Inter";
+  src: url(./fonts/Inter-VariableFont_slnt,wght.ttf);
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Inter;
+}
+
+:root{
+  --red: #F55A5A;
+}
+
+#pg-header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 7px;
+  height: 55px;
+  background-color: var(--red);
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: lighter;
+}
+
+#pg-header img{
+  width: 24px;
+  height: 24px;
+}
