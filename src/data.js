@@ -7,7 +7,7 @@ export default [{
   siteDescription: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists."
 },
 {
-  id: 1,
+  id: 2,
   coverImg: "https://source.unsplash.com/JmuyB_LibRo",
   country: "Australia",
   title: "Sydney Opera House",
@@ -15,7 +15,7 @@ export default [{
   siteDescription: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings"
 },
 {
-  id: 1,
+  id: 3,
   coverImg: "https://source.unsplash.com/3PeSjpLVtLg",
   country: "Noruega",
   title: "Geirangerfjord",
